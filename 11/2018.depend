@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1636505459 source:c:\users\nico_\desktop\facultad 2021\informática 1 2021\acceso al harware\2018\segundo parcial 19\11\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"driver.h"
+
+1636239221 source:c:\users\nico_\desktop\facultad 2021\informática 1 2021\acceso al harware\2018\segundo parcial 19\11\mock.c
+	"Mock.h"
+	<stdio.h>
+
+1636239221 c:\users\nico_\desktop\facultad 2021\informática 1 2021\acceso al harware\2018\segundo parcial 19\11\mock.h
+
+1636502348 source:c:\users\nico_\desktop\facultad 2021\informática 1 2021\acceso al harware\2018\segundo parcial 19\11\driver.c
+	"driver.h"
+	"Mock.h"
+	<stdio.h>
+
+1636255596 c:\users\nico_\desktop\facultad 2021\informática 1 2021\acceso al harware\2018\segundo parcial 19\11\driver.h
+
+1636685902 source:c:\users\nico_\desktop\facultad 2021\informática 1 2021\acceso al harware\2018\segundo parcial 19\11\funciones.c
+	"funciones.h"
+	<stdio.h>
+
+1636505459 c:\users\nico_\desktop\facultad 2021\informática 1 2021\acceso al harware\2018\segundo parcial 19\11\funciones.h
+	"driver.h"
+
